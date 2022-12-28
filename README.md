@@ -11,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saffan-ahmed-shaikh&theme=cobalt&layout=compact)](https://github.com/saffan-ahmed-shaikh/github-readme-stats)
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saffan-ahmed-shaikh&show_icons=true&theme=radical)
+![Safwan Ahmed Shaikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saffan-ahmed-shaikh&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saffan-ahmed-shaikh&theme=dracula" alt="saffan-ahmed-shaikh" /></p>
